@@ -1,0 +1,3 @@
+com\digest\springConfigs\DispatcherServletConfig.class
+com\digest\controllers\DigestController.class
+com\digest\springConfigs\SpringWebConfig.class
